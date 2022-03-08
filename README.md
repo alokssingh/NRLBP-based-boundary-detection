@@ -15,11 +15,10 @@ First Stage Bolckwise LBP-HF is used for finding dissimilarity difference betwee
 
 If you are using our algorithm, please consider citing the following papers:
 
-1. **Singh, Alok**, Dalton Meitei Thounaojam, and Saptarshi Chakraborty. "**A novel automatic shot boundary detection algorithm: robust to illumination and motion effect.**" Signal, Image and Video Processing (2019): 1-9. https://doi.org/10.1007/s11760-019-01593-3
-
-2. Chakraborty, Saptarshi, **Alok Singh**, and Dalton Meitei Thounaojam. "**A novel bifold-stage shot boundary detection algorithm: invariant to motion and illumination**." The Visual Computer (2021): 1-12.
-
-3. Singh, A.*, Singh, T.D. & Bandyopadhyay, S. V2T: video to text framework using a novel automatic shot boundary detection algorithm.
+1. **Singh, A.**, Singh, T.D. & Bandyopadhyay, S. V2T: video to text framework using a novel automatic shot boundary detection algorithm Multimed Tools Appl (2022)
+2. **Singh, Alok**, Dalton Meitei Thounaojam, and Saptarshi Chakraborty. "**A novel automatic shot boundary detection algorithm: robust to illumination and motion effect.**" Signal, Image and Video Processing (2019): 1-9. https://doi.org/10.1007/s11760-019-01593-3
+3. Chakraborty, Saptarshi, **Alok Singh**, and Dalton Meitei Thounaojam. "**A novel bifold-stage shot boundary detection algorithm: invariant to motion and illumination**." The Visual Computer (2021): 1-12.
+4. **Singh, A.**, Singh, T.D. & Bandyopadhyay, S. V2T: video to text framework using a novel automatic shot boundary detection algorithm.
 
 
 # Acknowledgements :
