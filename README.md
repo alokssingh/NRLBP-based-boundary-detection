@@ -22,7 +22,7 @@ If you are using our algorithm, please consider citing the following papers:
 
 
 # Acknowledgements :
- 1. Prof.Ren Jianfeng https://sites.google.com/site/renjianfengnus/codes
+ 1. https://sites.google.com/site/renjianfengnus/codes
  2. https://in.mathworks.com/
  3. https://in.mathworks.com/help/vision/ref/extractlbpfeatures.html
  4. https://trecvid.nist.gov/
